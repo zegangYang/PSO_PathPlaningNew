@@ -8,13 +8,13 @@ This open source project is a matlab GUI project,is a Robot Path Planing Demo us
 
 - **Click** button '添加圆' ->**left click and drag** cursor to generate a circle data set->Click button '结束添加'->Click button '选择起始点'->**Left click** and select start-point and end-point->Click button '规划路径'->end
 
-  ![](http://p4y9iazc7.bkt.clouddn.com/pathplaning.png)
+  ![](https://git-resources-1258054708.cos.ap-chengdu.myqcloud.com/pathplaning.png)
 
 ### More Usage
 
 - Get result as Bezier curve,result *(x11,y11)* and *(x21,y21)* are Bezier control points,*(x0,y0)* and *(x1,y1)* also.Show as image:
 
-![](http://p4y9iazc7.bkt.clouddn.com/bezier_control_points_roughly.png)
+![](https://git-resources-1258054708.cos.ap-chengdu.myqcloud.com/bezier_control_points_roughly.png)
 
 Or can get these result from code below:
 
